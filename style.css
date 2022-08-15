@@ -76,13 +76,12 @@ header{
     width: 100%;
     left: 0;
     text-align: center;
-    
 }
 
 .btn a{
     display: inline-block;
     padding:8px 50px;
-    max-width:0 15px;
+    margin:0 15px;
     background-color: #333;
     color: white;
     border-radius: 15px;
